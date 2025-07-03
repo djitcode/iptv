@@ -1,0 +1,10 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/au/all/epg.xml.gz"
+
+#EXTINF:-1 channel-id="mjh-nbn-new" tvg-id="mjh-channel-9-nsw" tvg-chno="80" tvg-logo="http://192.168.0.10:34400/data_images/nbn.png" group-title="Sydney" ,NBN Newcastle
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/new/ch9/hls/r1/index.m3u8
+
+#EXTINF:-1 channel-id="mjh-nbn-nlm" tvg-id="mjh-channel-9-nsw" tvg-chno="88"  tvg-logo="http://192.168.0.10:34400/data_images/nbn.png" group-title="Sydney" ,NBN Northern Rivers
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/nlm/ch9/hls/r1/index.m3u8
+
+#EXTINF:-1 channel-id="mjh-nbn-gcq" tvg-id="mjh-channel-9-qld" tvg-chno="89" tvg-logo="http://192.168.0.10:34400/data_images/nbn.png" group-title="Sydney" ,NBN Gold Coast
+https://9now-livestreams-fhd-t.akamaized.net/u/prod/simulcast/gcq/ch9/hls/r1/index.m3u8
